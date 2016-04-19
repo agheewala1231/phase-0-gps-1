@@ -5,4 +5,5 @@ Code
 ```
 [Link](https://git-scm.com/documentation)
 
-*Something different*
+**Change is good**
+
