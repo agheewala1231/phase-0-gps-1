@@ -1,6 +1,7 @@
 # phase-0-gps-1
 
 Git clone (url)
+
 cd
 touch awesome_page.md
 git push origin master
